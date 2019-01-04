@@ -6,10 +6,10 @@ var numberData = [{
     "Grade": "2nd Grade"
   },
   {
-    "Rank": "",
-    "Name": "",
-    "School": "",
-    "Grade": ""
+    "Rank": 2,
+    "Name": "Brian Garza",
+    "School": "Salinas Elementary",
+    "Grade": "5th Grade"
   },
   {
     "Rank": "",
