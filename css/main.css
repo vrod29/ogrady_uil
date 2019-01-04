@@ -1,0 +1,27 @@
+body {
+    background-color: #323232;
+}
+
+.title {
+    color: #d6d4d4;
+    -webkit-text-stroke: 1px #2b171d;
+}
+
+.table th {
+    border: none !important;
+}
+
+.table td {
+    border: none !important;
+}
+
+.table {
+    background-color: white;
+}
+
+.radial {
+    border-radius: 5px;
+}
+
+
+
