@@ -1,9 +1,9 @@
 // Number Sense.....
 var numberData = [{
-    "Rank": "",
-    "Name": "",
-    "School": "",
-    "Grade": ""
+    "Rank": 1,
+    "Name": "Toni Cavillo",
+    "School": "O'Grady Elementary",
+    "Grade": "2nd Grade"
   },
   {
     "Rank": "",
