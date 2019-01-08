@@ -8,8 +8,8 @@ var numberData = [{
   {
     "Rank": 2,
     "Name": "Brian Garza",
-    "School": "Salinas Elementary",
-    "Grade": "5th Grade"
+    "School": "",
+    "Grade": "e"
   },
   {
     "Rank": "",
