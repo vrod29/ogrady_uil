@@ -8,14 +8,14 @@ var numberData = [{
   {
     "Rank": 2,
     "Name": "Brian Garza",
-    "School": "",
-    "Grade": "e"
+    "School": "Salinas Elementary",
+    "Grade": "5th Grade"
   },
   {
-    "Rank": "",
-    "Name": "",
-    "School": "",
-    "Grade": ""
+    "Rank": 3,
+    "Name": "Victor Rodriguez",
+    "School": "Mims Elementary",
+    "Grade": "4th Grade"
   },
   {
     "Rank": "",
@@ -55,10 +55,10 @@ addDataToTbody(numberTbody, numberData);
 
 // Creative Writing.....
 var creativeData = [{
-    "Rank": "",
-    "Name": "",
-    "School": "",
-    "Grade": ""
+    "Rank": "1",
+    "Name": "Victor Rodriguez",
+    "School": "Salinas Elementary",
+    "Grade": "3rd Grade"
   },
   {
     "Rank": "",
